@@ -1,0 +1,3 @@
+[submodule "lean4-samples"]
+	path = lean4-samples
+	url = git@github.com:leanprover/lean4-samples.git

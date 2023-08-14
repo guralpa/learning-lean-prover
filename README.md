@@ -6,5 +6,5 @@ Purpose for learning: Enabling myself to work on machine learning for theorem pr
 
 Method of learning: Youtube videos, documentation, and self-implementation.
 
-Journey, in reverse chronological order:
-- [Seminar: Introduction to the Lean 4 theorem prover and programming language by Leonardo de Moura](https://www.youtube.com/watch?v=S-aGjgIDQZY)
+Learning Journey, in reverse chronological order:
+- [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/introduction.html)
